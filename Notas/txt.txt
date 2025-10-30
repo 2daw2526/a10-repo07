@@ -1,0 +1,24 @@
+Meterle caña al HTML URGENTE//Casi Hecho
+Hacer lo de varieties pero con forms/Hecho
+investigar FIGURE boostrap, ponerla en una funcion para ahorrar código y mejorar el código//Hecho
+Si cuando recargo la carta le vuelvo a dar rapidamente de vuelta, el código se atropella//Hecho
+A partir del 10000 hay variedades de los pokemon como las megas, Hacer lo de las evoluciones otra vez pero con esto//Hecho
+Cambiar un poco los colores de la página si es shiny, metiendolos en una especie de favoritos pero automático y con shiny//Hecho
+Hacer una opción de favoritos//Hecho
+Guardar los iD de los favoritos en un documento de texto para así guardarlos//Hecho
+(Hacer estadísticas dinámicas y que si les paso el cursor, me pondan el número flotante y hacer una etiqueta de extender y contraer)//Hecho
+EXTENDER LA PÁGINA//Hecho
+
+
+https://getbootstrap.com/docs/5.3/utilities/background/
+
+https://getbootstrap.esdocu.com/docs/5.3/layout/grid/
+
+boostrap progrees
+
+sticky / fixed bar
+
+https://p5js.org/reference/p5/hour/
+
+Tengo que hacer una página que este encima de la otra, que cuando yo pulse un boton, se ponga por detrás 
+
